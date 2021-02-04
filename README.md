@@ -18,4 +18,4 @@
 
 ## See live demo: [Trillo project](https://maverick-trillo-flexbox.netlify.app/)
 
-![Trillo app screenshot](./src/img/trillo-app-screenshot.jpg)
+![Trillo app screenshot](./src/img/trillo-app-screenshot.png)
