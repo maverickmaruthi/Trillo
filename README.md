@@ -17,3 +17,5 @@
 * Parcel Bundler
 
 ## See live demo: [Trillo project](https://maverick-trillo-flexbox.netlify.app/)
+
+![Trillo app screenshot](./img/trillo-app-screenshot.jpg)
